@@ -1,4 +1,4 @@
 # test-automation
 
 Learning references
-https://chatgpt.com/c/66ff5d78-abf8-800a-ad50-3fef48ab3f30
+https://docs.google.com/document/d/1Uq38zF57GpmwnH9NivkIPzElVGHj54XqDTn56R6VaM8/edit
